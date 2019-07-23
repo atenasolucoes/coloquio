@@ -14,7 +14,7 @@
                         Atividade 1 -  Laboratório INTEREURISLAND experiência na sala de aula de Relações Interpessoais e dinâmicas de grupo PhD Nicola Andrian (UNEB) - (número máximo de inscritos 60) <br> <br>
                         Atividade 2 - Visitas na Comunidade Projetos de extensão e de educação contextualizada (Atividade de extensão) - (número máximo de inscritos 40)
                     </p>
-                    @if(Auth::user()->pagamento == null || Auth::user()->vinculo == null)
+                    @if(Auth::user()->situacao != 'confirmada')
                     <p class="text-danger"> Você só pode se inscrever nas atividades, após confirmação de pagamento</p>
                     @else
                     <form action="">
