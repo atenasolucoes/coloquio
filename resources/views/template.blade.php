@@ -62,9 +62,21 @@
 
                     <ul class="nav navbar-nav navbar-right ">
                         <li><a href="/" class="active">Home</a></li>
-                        <li><a href="{{Route::current()->action['prefix']}}/programacao">Programação</a></li>
+                        <li><a href="{{Route::current()->action['prefix']}}/programacao">
+                                @if(Route::current()->action['prefix'] == 'it')
+                                Programmazione
+                                @else
+                                Programação
+                                @endif
+                            </a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Inscrição<span class="caret"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                @if(Route::current()->action['prefix'] == 'it')
+                                ISCRIZIONE
+                                @else
+                                Inscrição
+                                @endif
+                                <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="{{Route::current()->action['prefix']}}/inscricao">Sobre a inscrição</a></li>
                                 <li><a href="/login">Sistema de Inscrição</a></li>
