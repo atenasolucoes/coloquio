@@ -87,7 +87,7 @@
                     </div>
                     @endif
                     <hr>
-                    <!-- @if(Auth::user()->pagamento == null)
+                    @if(Auth::user()->pagamento == null)
                     <form action="{{route('upPagamento')}}" method="post" enctype="multipart/form-data" class="form-inline">
                         @csrf
                         <label class="font-weight-bold" for="">Anexar comprovante de pagamento: </label>
@@ -110,7 +110,7 @@
                     <hr>
                     @if(Auth::user()->pagamento != null && Auth::user()->vinculo != null)
                     <h4>Ativadades extras</h4>
-                    @endif -->
+                    @endif
                 </div>
             </div>
         </div>
