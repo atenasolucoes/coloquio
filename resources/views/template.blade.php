@@ -63,7 +63,7 @@
                     <ul class="nav navbar-nav navbar-right ">
                         <li><a href="/" class="active">Home</a></li>
                         <li><a href="{{Route::current()->action['prefix']}}/programacao">
-                                @if(Route::current()->action['prefix'] == 'it')
+                                @if(Route::current()->action['prefix'] == '/it')
                                 Programmazione
                                 @else
                                 Programação
