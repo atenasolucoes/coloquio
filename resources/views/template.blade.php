@@ -71,8 +71,8 @@
                             </a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                                @if(Route::current()->action['prefix'] == 'it')
-                                ISCRIZIONE
+                                @if(Route::current()->action['prefix'] == '/it')
+                                Iscrizione
                                 @else
                                 Inscrição
                                 @endif
@@ -83,10 +83,29 @@
 
                             </ul>
                         </li>
-                        <li><a href="#">Cobertura</a></li>
-                        <li><a href="#">Certificados</a></li>
+                        <li><a href="#">
+                                @if(Route::current()->action['prefix'] == '/it')
+                                Copertura
+                                @else
+                                Cobertura
+                                @endif
+
+                            </a></li>
+                        <li><a href="#">
+                                @if(Route::current()->action['prefix'] == '/it')
+                                Certificato
+                                @else
+                                Certificados
+                                @endif
+                            </a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publicações<span class="caret"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                @if(Route::current()->action['prefix'] == '/it')
+                                Pubblicazioni
+                                @else
+                                Publicações
+                                @endif
+                                <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="/comite">Comitê</a></li>
                                 <li><a href="/comite#comissao">Comissão organizadora</a></li>
