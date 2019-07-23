@@ -111,7 +111,14 @@
                                 <li><a href="/comite#comissao">Comissão organizadora</a></li>
                             </ul>
                         </li>
-                        <li><a href="{{Route::current()->action['prefix']}}/contatos">Contatos</a></li>
+                        <li><a href="{{Route::current()->action['prefix']}}/contatos">
+                                @if(Route::current()->action['prefix'] == '/it')
+                                Contatti
+                                @else
+                                Contatos
+                                @endif
+
+                            </a></li>
                     </ul>
 
 
