@@ -6,7 +6,7 @@
             <img src="/images/logo.png" alt="" style="width: 100%;">
         </div>
         <div class="col-sm-6 text-justify" style="font-size:13px;">
-            <h3>1° colloquio brasile italia</h3>
+            <h3 class="text-left">Educação Contextualizada e diálogo intercultural na implementação de novas estratégias de internacionalização no PPGESA DCH III /UNEB</h3>
             <p>Con il fenomeno della globalizzazione e l'apertura dei mercati nazionali agli orizzonti internazionali, diversi livelli di progresso sociale, uno scambio accelerato di informazioni dovuto alle tecnologie spesso forzate e i flussi migratori sono state le cause che, nel secolo scorso, hanno portato a un disorientamento a livello politico, economico, scientifico e culturale (GALERI, 2009).</p>
             <p>Queste nuove condizioni di vita, nelle grandi citt&agrave; e nei contesti rurali della grande maggioranza dei paesi dei cinque continenti, promuovevano, da un lato, l'unificazione dei processi socioeconomici e l'universalizzazione della conoscenza e, dall'altra, l'identit&agrave; personale e il senso di appartenenza al contesto e alla comunit&agrave; specifici.</p>
             <p>Nuove ed urgenti sfide sono state poste alle istituzioni di qualsiasi ordine e livello, riguardo all'educazione del cittadino contemporaneo, in particolare nel contesto del semi-arido brasiliano, in cui insiste "... un'educazione che porta nelle sue pratiche educative la sfida di esercitare la contestualizzazione e l'interdisciplinariet&agrave; come strategia per contrastare i mali della pedagogia moderna basata sui principi di neutralit&agrave;, formalit&agrave; astratta e universalit&agrave; della conoscenza e delle pratiche " (REIS, 2010, p.10).</p>
