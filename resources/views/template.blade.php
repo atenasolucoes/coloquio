@@ -34,17 +34,18 @@
 
 <body>
     <!-- Header -->
-    <div id="home" class="banner w3l" style="background-color:white !important;">
+    <div id="home" class="banner w3l" style="background-color:white !important; margin:0px; padding:0px;">
         <div class="header-nav">
-            <nav class="navbar navbar-default" style="background-color:#037047">
+            <nav class="navbar navbar-default" style="background-color:#037047; margin:0px; padding:0px;">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="z-index:99999">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar bg-danger"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
                 <div class="header-top">
                     <div class="navbar-header logo" style="margin:0px; padding:0px;">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="z-index:99999">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
+
                         <!-- <h1>
 									<a class="navbar-brand" href="index.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Emphasize</a>
 								</h1> -->
