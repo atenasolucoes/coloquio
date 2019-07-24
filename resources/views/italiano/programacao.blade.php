@@ -235,13 +235,12 @@
                         <p><strong>10.00: Apertura</strong></p>
                         <p>Rettori UNEB e UNIVASF, Direttrice DCH III, UNEB,</p>
                         <p>Coordinatrice PPGESA.</p>
-                        <p>Coordinamento: PhD Nicola Andrian (Assegnista PNPD PPGESA/UNEB)</p>
+                        <p>Coordinamento: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
                         <p>&nbsp;</p>
-                        <p><strong>10.30: Dialoghi internazionali sull&rsquo;educazione UNEB/UNIPD</strong></p>
-                        <p>Prof. Giuseppe Milan &ndash; UNIPD,</p>
-                        <p>IsabellaPolloni &ndash; EnARS, Italia</p>
-                        <p>Prof. Natanael R.B. - SERINT/UNEB e</p>
-                        <p>rappresentanti UNIVASF</p>
+                        <p><strong>10.30: Dialoghi internazionali sull&rsquo;educazione UNEB - UNIPD</strong></p>
+                        <p>Prof. Giuseppe Milan (UNIPD),</p>
+                        <p>Isabella Polloni (EnARS) e</p>
+                        <p>Prof. Natanael Reis Bomfim (SERINT/UNEB)</p>
                         <p>&nbsp;</p>
                         <p><strong>11.30 - Interazioni</strong></p>
                         <p>&nbsp;</p>
@@ -265,7 +264,7 @@
                     <td width="431">
                         <p><strong>10.00 &ndash; Conferenza di apertura</strong></p>
                         <p>&nbsp;&lsquo;Pedagogia e dialogo interculturale&rsquo;</p>
-                        <p>Prof. Giuseppe Milan (UNIPD, Italia)</p>
+                        <p>Prof. Giuseppe Milan (UNIPD)</p>
                     </td>
                 </tr>
                 <tr>
@@ -277,11 +276,11 @@
                     <td width="431">
                         <p><strong>14.30 - Tavola rotonda</strong></p>
                         <p><strong>&ldquo;Educazione contestualizzata e GloCal Education: globalizzazione o formazione ad una cittadinanza globale?&rdquo;</strong></p>
-                        <p>Prof.ssa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim e Prof. Cesar Leiro (PPGEDUC/UNEB).</p>
+                        <p>Prof.ssa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB) e Prof. Augusto Cesar Rios Leiro (PPGEDUC/UNEB).</p>
                         <p>Coordinamento: Prof.ssa Carla Paiva (PPGESA/UNEB)</p>
                         <p>&nbsp;</p>
-                        <p><strong>17.00 &ndash; Dal Locale al Globale, nuove strategie di internazionalizzazione della Terza Missione.</strong></p>
-                        <p>Ph D Nicola A. (PNPD -PPGESA/UNEB)</p>
+                        <p><strong>17.00 &ndash; Dal Locale al Globale, nuove strategie di internazionalizzazione della terza missione.</strong></p>
+                        <p>PhD Nicola A. (PNPD - PPGESA/UNEB)</p>
                         <p>Coordinamento: Prof. Edmerson Reis (PPGESA/UNEB)</p>
                         <p>&nbsp;</p>
                     </td>
@@ -311,14 +310,16 @@
                 </tr>
                 <tr>
                     <td width="431">
-                        <p><strong>14.30 -</strong> <strong>Socializzazione attivit&agrave; di Terza Missione &ndash; Visite e riflessioni secondo il ciclo del service-learning</strong></p>
+                        <p><strong>14.30 -</strong> <strong>Socializzazione attivit&agrave; di terza missione &ndash; visite e riflessioni secondo il ciclo del service-learning</strong></p>
                         <p>Coordinamento PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
                     </td>
                 </tr>
                 <tr>
                     <td width="431">
                         <p><strong>15.30 Il Service Learning</strong></p>
-                        <p>PhD Katia Gon&ccedil;alves Mori (Coordinamento Rete Brasiliana de Aprendizagem Solid&aacute;ria) e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
+                        <p>PhD Katia Gon&ccedil;alves Mori</p>
+                        <p>(Coordinamento Rete Brasiliana de Aprendizagem Solid&aacute;ria)</p>
+                        <p>e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
                         <p>&nbsp;</p>
                     </td>
                 </tr>
@@ -328,11 +329,13 @@
                         <p>Prof. Massimo Santinello (UNIPD)</p>
                         <p><strong>17.45 - &ldquo;La musica come l&rsquo;intercultura - &egrave; un&rsquo;esperienza sovversiva.&rdquo;</strong></p>
                         <p>PhD Simonetta Bungaro (Conservatorio Trento, Italia)</p>
+                        <p><strong>&nbsp;</strong></p>
                     </td>
                 </tr>
                 <tr>
                     <td width="431">
                         <p><strong>18.15 &ndash; Presentazione Libro e presentazione culturale</strong></p>
+                        <p><strong>&nbsp;</strong></p>
                     </td>
                 </tr>
                 <tr>
@@ -341,10 +344,11 @@
                         <p>Luogo: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
                     </td>
                     <td width="431">
-                        <p><strong>9.00 &ndash; Istituzionalizzando la Terza Missione</strong></p>
-                        <p>Prof.ssa Adriana Marmori &ndash; Pro Rettrice Extension (UNEB)</p>
-                        <p>Prof.ssa Lucia Marisy &ndash; Pro Rettrice Extension (UNIVASF)</p>
+                        <p><strong>9.00 &ndash; Istituzionalizzando la terza missione</strong></p>
+                        <p>Prof.ssa Adriana Marmori (PROEX/UNEB)</p>
+                        <p>Prof.ssa Lucia Marisy (PROEX/UNIVASF)</p>
                         <p>&nbsp;Coordinatrice: Prof.ssa Edonilce Barros (PPGESA/UNEB)</p>
+                        <p><strong>&nbsp;</strong></p>
                     </td>
                 </tr>
                 <tr>
@@ -363,7 +367,8 @@
                     <td width="431">
                         <p><strong>14.30 &ndash; Tavola rotonda</strong></p>
                         <p>"Mobilit&agrave; internazionale, responsabilit&agrave; sociale e service-learning: il punto di vista degli studenti e degli enti coinvolti. Report delle esperienze in Brasile e Italia".</p>
-                        <p>Coordinamento: PhD Nicola Andrian (UNEB)</p>
+                        <p>Jamile Soares da Silva (UNEB), Maria Spalletta e Maurizio Dorsa (UNIPD), Fernanda Maria Lins e Silva (Pastoral da Mulher), Elzirene Oliveira (Case Gey Espinheira), Isabella Polloni (EnARS), Beatrice Girotto (Peter Pan) e Roberta Lorenzetto (Porto Alegre).</p>
+                        <p>Coordinamento: PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
                     </td>
                 </tr>
                 <tr>
@@ -376,6 +381,7 @@
                 <tr>
                     <td width="431">
                         <p><strong>18.00 Notte culturale &ldquo;O Bella Ciao&rdquo;</strong></p>
+                        <p>Gruppo Pdi percussioni Baque Opar&aacute; e Banda Musaik&oacute;n</p>
                     </td>
                 </tr>
             </tbody>

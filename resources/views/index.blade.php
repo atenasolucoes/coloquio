@@ -6,7 +6,7 @@
             <img src="images/logo.png" alt="" style="width: 100%;">
         </div>
         <div class="col-sm-6 text-justify" style="font-size:13px;">
-            <h3> 1° colóquio brasil itália</h3>
+            <h3 class="text-left">Educação Contextualizada e diálogo intercultural na implementação de novas estratégias de internacionalização no PPGESA DCH III /UNEB</h3>
             Com o fenômeno da globalização e a abertura dos mercados nacionais para horizontes internacionais,diferentes níveis de progresso social, numa acelerada troca de informações em função das tecnologias e
             fluxos migratórios, muitas vezes forçados, foram as causas que determinaram, no século passado, uma
             desorientação a nível político, econômico, científico e cultural (GALERI, 2009).<br>
@@ -37,7 +37,7 @@
 
     </div>
 
-    
+
 </div>
 
 @stop

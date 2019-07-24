@@ -233,11 +233,12 @@
                         <p>&nbsp;</p>
                         <p><strong>10h00 - Abertura </strong></p>
                         <p>Autoridades UNEB e UNIVASF, Diretora DCH III UNEB, Coordenadora do PPGESA.</p>
-                        <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (Bolsista PNPD PPGESA/UNEB)</p>
+                        <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
                         <p>&nbsp;</p>
-                        <p><strong>10h30 &ndash; Di&aacute;logos Internacionais em Educa&ccedil;&atilde;o UNEB/UNIPD</strong></p>
-                        <p>Prof. Giuseppe Milan - Universidade de P&aacute;dua e Isabella Polloni EnARS, It&aacute;lia</p>
-                        <p>Prof. Natanael R.B. SERINT/UNEB e representantes da UNIVASF.</p>
+                        <p><strong>10h30 &ndash; Di&aacute;logos Internacionais em Educa&ccedil;&atilde;o UNEB </strong><strong>- </strong><strong>UNIPD</strong></p>
+                        <p>Prof. Giuseppe Milan (UNIPD, It&aacute;lia)</p>
+                        <p>Isabella Polloni (EnARS, It&aacute;lia)</p>
+                        <p>Prof. Natanael Reis Bonfim (SERINT/UNEB).</p>
                         <p><strong>11h30 - Intera&ccedil;&otilde;es</strong></p>
                         <p>&nbsp;</p>
                     </td>
@@ -271,10 +272,11 @@
                 <tr>
                     <td width="445">
                         <p><strong>15h00 &ndash; Mesa &ldquo;Educa&ccedil;&atilde;o Contextualizada e Educa&ccedil;&atilde;o GloCal: pertencimento na mundializa&ccedil;&atilde;o ou Forma&ccedil;&atilde;o para uma Cidadania planet&aacute;ria&rdquo;</strong></p>
-                        <p>Profa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB) e Prof. Cesar Leiro (PPGEDUC/UNEB).</p>
+                        <p>Profa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB)</p>
+                        <p>e Prof. Augusto Cesar Rios Leiro (PPGEDUC/UNEB).</p>
                         <p>Coordena&ccedil;&atilde;o: Profa. Carla Paiva (PPGESA/UNEB)</p>
                         <p><strong>17h00 &ndash; </strong><strong>Do Local ao Global, novas estrat&eacute;gias de internacionaliza&ccedil;&atilde;o da extens&atilde;o.</strong></p>
-                        <p>PhD Nicola A. (Bolsista PNPD -PPGESA/UNEB)</p>
+                        <p>PhD Nicola Andrian (PNPD -PPGESA/UNEB)</p>
                         <p>Coordena&ccedil;&atilde;o: Prof. Edmerson Reis (PPGESA/UNEB)</p>
                         <p>&nbsp;</p>
                     </td>
@@ -283,7 +285,7 @@
                     <td width="445">
                         <p><strong>17h30 - Laborat&oacute;rio INTEREURISLAND</strong></p>
                         <p><strong>Experi&ecirc;ncia na sala de aula de Rela&ccedil;&otilde;es Interpessoais e din&acirc;micas de grupo</strong></p>
-                        <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (Bolsista PNPD PPGESA/UNEB)</p>
+                        <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
                     </td>
                 </tr>
                 <tr>
@@ -304,13 +306,15 @@
                 <tr>
                     <td width="445">
                         <p><strong>14h30 -</strong> <strong>Socializa&ccedil;&atilde;o das atividades de extens&atilde;o - visitas e reflex&atilde;o segundo o Ciclo da Aprendizagem Solid&aacute;ria</strong></p>
-                        <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (Bolsista PNPD -PPGESA/UNEB)</p>
+                        <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (PNPD -PPGESA/UNEB)</p>
                     </td>
                 </tr>
                 <tr>
                     <td width="445">
                         <p><strong>15h30 - A Aprendizagem Solid&aacute;ria</strong></p>
-                        <p>PhD Katia Gon&ccedil;alves Mori (Coordena&ccedil;&atilde;o da Rede Brasileira da Aprendizagem Solid&aacute;ria) e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
+                        <p>PhD Katia Gon&ccedil;alves Mori</p>
+                        <p>(Coordena&ccedil;&atilde;o da Rede Brasileira da Aprendizagem Solid&aacute;ria)</p>
+                        <p>e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
                     </td>
                 </tr>
                 <tr>
@@ -333,9 +337,8 @@
                     </td>
                     <td width="445">
                         <p><strong>9h00 &ndash; Mesa &ldquo;Curricularizando a extens&atilde;o&rdquo;</strong></p>
-                        <p>Profa. Adriana Marmori, Pr&oacute;-Reitora de Extens&atilde;o (UNEB)</p>
-                        <p>Profa. Lucia Marisy, Pr&oacute;-Reitora de Extens&atilde;o (UNIVASF)</p>
-                        <p>Prof. Luiz Alberto Rodrigues, Pr&oacute;-Reitor de Extens&atilde;o (UPE)</p>
+                        <p>Profa. Adriana Marmori (PROEX/UNEB)</p>
+                        <p>Profa. Lucia Marisy (PROEX/UNIVASF)</p>
                         <p>&nbsp;Coordena&ccedil;&atilde;o: Profa. Edonilce Barros (PPGESA/UNEB)</p>
                     </td>
                 </tr>
@@ -355,6 +358,7 @@
                     <td width="445">
                         <p><strong>14h30 - Mobilidade internacional, extens&atilde;o e aprendizagem solid&aacute;ria &ndash; o olhar das/os discentes e das Institui&ccedil;&otilde;es envolvidas </strong></p>
                         <p><strong>Relatos de Experi&ecirc;ncia Brasil e It&aacute;lia</strong></p>
+                        <p>Jamile Soares da Silva (UNEB), Maria Spalletta e Maurizio Dorsa (UNIPD), Fernanda Maria Lins e Silva (Pastoral da Mulher), Elzirene Oliveira (Case Gey Espinheira), Isabella Polloni (Ass. EnARS), Beatrice Girotto (Coop. Peter Pan), Roberta Lorenzetto (Coop. Porto Alegre).</p>
                         <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
                     </td>
                 </tr>
@@ -368,6 +372,7 @@
                 <tr>
                     <td width="445">
                         <p><strong>18h00 Noite cultural &ldquo;O Bella Ciao&rdquo;</strong></p>
+                        <p>Grupo Percusivo Baque Opar&aacute; e Banda Musaik&oacute;n</p>
                     </td>
                 </tr>
             </tbody>
