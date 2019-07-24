@@ -5,7 +5,15 @@
 </div>
 <div class="contact-page-w3ls inner-padding">
     <div class="container">
-        <h3 class="heading-agileinfo">Comitê Científico</h3>
+        <h3 class="heading-agileinfo">
+            @if(Route::current()->action['prefix'] == '/it')
+            COMITATO SCIENTIFICO
+            @else
+            Comitê Científico
+            @endif
+
+
+        </h3>
 
         <div class="row">
 
@@ -32,9 +40,15 @@
             </div>
             <div class="col-sm-12 mt-5 ">
                 <br><br>
- <h3 class="heading-agileinfo">Comissão Organizadora do Evento</h3>
-</div>
-            <div class="col-sm-12 text-center" id="comissao">               
+                <h3 class="heading-agileinfo">
+                    @if(Route::current()->action['prefix'] == '/it')
+                    comitato organizzatore
+                    @else
+                    Comissão Organizadora do Evento
+                    @endif
+                </h3>
+            </div>
+            <div class="col-sm-12 text-center" id="comissao">
                 <P> <B> Nicola Andrian</B> - Doutorado - Universidade Do Estado Da Bahia
                     <P> <B>Monica Fedeli</B> - Doutorado - Università Degli Studi Di Padova
                         <P><B> Carla Conceição Da Silva Paiva</B> - Doutorado - Universidade Do Estado Da Bahia</P>

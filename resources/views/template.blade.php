@@ -78,8 +78,21 @@
                                 @endif
                                 <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="{{Route::current()->action['prefix']}}/inscricao">Sobre a inscrição</a></li>
-                                <li><a href="/login">Sistema de Inscrição</a></li>
+                                <li><a href="{{Route::current()->action['prefix']}}/inscricao">
+                                        @if(Route::current()->action['prefix'] == '/it')
+                                        Sulla registrazione
+                                        @else
+                                        Sobre a inscrição
+                                        @endif
+                                    </a>
+                                </li>
+                                <li><a href="/login">
+                                        @if(Route::current()->action['prefix'] == '/it')
+                                        Sistema di registrazione
+                                        @else
+                                        Sistema de inscrição
+                                        @endif
+                                    </a></li>
 
                             </ul>
                         </li>
@@ -107,8 +120,20 @@
                                 @endif
                                 <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="/comite">Comitê</a></li>
-                                <li><a href="/comite#comissao">Comissão organizadora</a></li>
+                                <li><a href="/comite">
+                                        @if(Route::current()->action['prefix'] == '/it')
+                                        COMITATO SCIENTIFICO
+                                        @else
+                                        Comitê Científico
+                                        @endif
+                                    </a></li>
+                                <li><a href="/comite#comissao">
+                                        @if(Route::current()->action['prefix'] == '/it')
+                                        comitato organizzatore
+                                        @else
+                                        Comissão Organizadora
+                                        @endif
+                                    </a></li>
                             </ul>
                         </li>
                         <li><a href="{{Route::current()->action['prefix']}}/contatos">
@@ -141,15 +166,75 @@
 
         <div class="">
             <!-- footer -->
-            <div class="container text-center">
-                <img src="/images/marcas.png" alt="" style="width:100%;">
+            <div class="container text-center" style="margin-top:30px;">
+                <div class="row">
+                    <div class="col-sm-12">
+                        @if(Route::current()->action['prefix'] == '/it')
+                        <h4>realizzazione</h4>
+                        @else
+                        <h4>Realização</h4>
+                        @endif
+                    </div>
+                    <div class="col-sm-3">
+                        <a href="http://www.uneb.br/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/uneb.png" alt="" style="width:250px;"></a>
+                    </div>
+                    <div class="col-sm-2">
+                        <a href="http://www.ppgesa.uneb.br/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/ppgesa.png" alt="" style="width:150px;"></a>
+                    </div>
+                    <div class="col-sm-3">
+                        <a href="http://intereurisland.blogspot.com/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/inter.png" alt="" style="width:250px;"></a>
+                    </div>
+                    <div class="col-sm-2">
+                        <a href="http://capes.gov.br/pt/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/capes.png" alt="" style="width:125px;"></a>
+                    </div>
+                    <div class="col-sm-2">
+                        <a href="http://www.brasil.gov.br/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/governo.png" alt="" style="width:250px;"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        @if(Route::current()->action['prefix'] == '/it')
+                        <h4> supporto</h4>
+                        @else
+                        <h4>Apoio</h4>
+                        @endif
+                    </div>
+                    <div class="col-sm-5">
+                        <a href="https://www.unipd.it/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/universita.png" alt="" style="width:100%;"></a>
+                    </div>
+                    <div class="col-sm-2">
+                        <a href="http://www.enars.it/joomla/it/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/enars.png" alt="" style="width:150px;"></a>
+                    </div>
+                    <div class="col-sm-3">
+                        <a href="https://www.scholasoccurrentes.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/scholas.png" alt="" style="width:200px;">
+                        </a>
+                    </div>
+                    <div class="col-sm-2">
+                        <a href="http://portais.univasf.edu.br/" target="_blank" rel="noopener noreferrer">
+                            <img src="images/marcas/univasf.png" alt="" style="width:150px;"></a>
+                    </div>
+                </div>
             </div>
 
             <div class="contact-w3ls ">
                 <div class="contact-top-w3-agile">
                 </div>
                 <div class="container">
-                    <h2 class="heading-agileinfo white-w3ls">Contato</h2>
+                    <h2 class="heading-agileinfo white-w3ls">
+                        @if(Route::current()->action['prefix'] == '/it')
+                        Contatti
+                        @else
+                        Contatos
+                        @endif
+                    </h2>
                     <ul class="w3_address">
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i><span>Universidade do Estado Bahia. Av, R. Edgar Chastinet, s/n - São Geraldo, Juazeiro - BA</span>
                         </li>
