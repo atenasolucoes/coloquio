@@ -40,6 +40,10 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'admin' => [
+            'driver' => 'session',
+            'provider' => 'admins',
+        ],
 
         'api' => [
             'driver' => 'token',
@@ -69,6 +73,10 @@ return [
         'users' => [
             'driver' => 'eloquent',
             'model' => coloquio\User::class,
+        ],
+        'admins' => [
+            'driver' => 'eloquent',
+            'model' => coloquio\Admin::class,
         ],
 
         // 'users' => [

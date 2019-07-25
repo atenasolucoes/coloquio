@@ -18,6 +18,13 @@ class DatabaseSeeder extends Seeder
        DB::table('atividades')->insert([
             'descricao' => ' - Visitas na Comunidade Projetos de extensão e de educação contextualizada (Atividade de extensão) - (número máximo de inscritos 40)',
             'vagas' => 40,
+        ]);
+        DB::table('users')->insert([
+            'name' => 'Atena Agencia',
+            'email' => 'suporte@atenaagencia.com',
+            'ocupacao' => 'administrador',
+            'tipo'=>'admin',
+            'password' => bcrypt('01072015')
         ]); // $this->call(UsersTableSeeder::class);
     }
 }

@@ -26,6 +26,10 @@ class HomeController extends Controller
         return view('home');
     }
 
+    public function index_admin()
+    {
+        return view('home_admin');
+    }
     public function inscricao_atividade(Request $request)
     {
         # code...
