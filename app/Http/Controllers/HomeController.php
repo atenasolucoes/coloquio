@@ -3,6 +3,7 @@
 namespace coloquio\Http\Controllers;
 
 use Illuminate\Http\Request;
+use coloquio\User;
 
 class HomeController extends Controller
 {
@@ -23,13 +24,11 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        $inscritos = User::where('tipo', null)->get();
+        return view('home')->with(compact('inscritos'));
     }
 
-    public function index_admin()
-    {
-        return view('home_admin');
-    }
+ 
     public function inscricao_atividade(Request $request)
     {
         # code...
