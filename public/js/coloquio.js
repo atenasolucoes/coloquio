@@ -31,44 +31,15 @@ $(document).ready(function () {
                 );
             };
 
-            if (result['pagamento'] && result['vinculo']) {
-                $('#myModal').find('.modal-body').append(
-                    '<hr><p class="text-dark"> Deseja confirmar esse pagamento?</p>'+
-                    '<button class="confirma btn btn-success" data-id="'+result['id']+'">Sim</button> '+
-                    '<button class="btn btn-danger" data-dismiss="modal" >Não</button>'
-                );
-            }
-
             $('#myModal').modal('show');
         });
 
     }
 
-    function confirmacao(id) {
-        $.ajax({
-            url: "/confirmacao",
-            method: "GET",
-            data: {
-                id: id
-            },
-            beforeSend: function () {
-                $('#myModal').modal('hide');
-                $('#load').modal('show');
-            }
-        }).done(function (result) {
-            $('.table').load('/home');
-            $('#load').modal('hide');
-        });
-    }
-
-
-    $(".busca").click(function () {
+     $(".busca").click(function () {
         consulta_participante($(this).data('id'));
     });
 
-    $(".confirma").click(function () {
-        confirmacao($(this).data('id'));
-    });
 
 
 });
