@@ -12,7 +12,6 @@ $(document).ready(function () {
                 $('#myModal').find('.modal-body').empty();
             }
         }).done(function (result) {
-            $('#load').modal('hide');
             $('#myModal').find('.modal-title').text(result['name']);
             if (result['pagamento'] != null) {
                 $('#myModal').find('.modal-body').append('<a class="btn btn-block alert-info" href="/storage/pagamento/'+result['pagamento']+'" target="_blank">Comprovante de pagamento enviado</a>'
@@ -30,7 +29,7 @@ $(document).ready(function () {
                     '<p class="text-danger"> Aguardando envio do comprovante de vinculo</p>'
                 );
             };
-
+            $('#load').modal('hide');
             $('#myModal').modal('show');
         });
 
