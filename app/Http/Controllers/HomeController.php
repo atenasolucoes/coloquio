@@ -27,7 +27,21 @@ class HomeController extends Controller
         $inscritos = User::where('tipo', null)->get();
         return view('home')->with(compact('inscritos'));
     }
+    
+    public function teste(Request $request)
+    {
+       $teste = User::find($request->id);
+       return response()->json($teste);
+    }
+    public function confirmacao(Request $request)
+    {
+        $up = User::find(Auth::user()->id);
+        $up->situacao = "confirmada";
+        $up->save();
+        $teste="Foi";
+        return response()->json($teste);
 
+    }
  
     public function inscricao_atividade(Request $request)
     {

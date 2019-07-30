@@ -53,5 +53,7 @@ Route::prefix('it')->group(function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/teste', 'HomeController@teste');
+Route::get('/confirmacao', 'HomeController@confirmacao');
 Route::post('/uploadPagamento','ArquivoController@uploadPagamento')->name('upPagamento');
 Route::post('/uploadVinculo', 'ArquivoController@uploadVinculo')->name('upVinculo');
