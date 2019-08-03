@@ -54,6 +54,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/teste', 'HomeController@teste');
+Route::any('/insc-p', 'HomeController@inscricao_participante')->name('insc-p');
 Route::get('/confirmacao', 'ArquivoController@confirmacao')->name('confirmacao');
 Route::post('/uploadPagamento','ArquivoController@uploadPagamento')->name('upPagamento');
 Route::post('/uploadVinculo', 'ArquivoController@uploadVinculo')->name('upVinculo');

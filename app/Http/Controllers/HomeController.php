@@ -4,6 +4,9 @@ namespace coloquio\Http\Controllers;
 
 use Illuminate\Http\Request;
 use coloquio\User;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+
 
 class HomeController extends Controller
 {
@@ -43,9 +46,20 @@ class HomeController extends Controller
     }
    
  
-    public function inscricao_atividade(Request $request)
+    public function inscricao_participante(Request $data)
     {
-        # code...
+        if ((Auth::user()->tipo == 'admin') && ($data['confirm-doc'] == 1)) {
+            User::create([
+                'name' => $data['name'],
+                'email' => $data['email'],
+                'ocupacao' => $data['ocupacao'],
+                'situacao' => 'confirmada',
+                'pagamento' => 'presencial',
+                'vinculo' => 'presencial',
+                'password' => Hash::make($data['password']),
+            ]);
+        }
+        return redirect('/home');
     }
 
     

@@ -5,7 +5,9 @@
         </div>
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">Lista de Inscritos</div>
+                <div class="card-header">Lista de Inscritos
+                    <input id="myInput" type="text" class="float-right" placeholder="Busca...">
+                </div>
 
                 <div class="card-body">
                     @if (session('status'))
@@ -14,41 +16,45 @@
                     </div>
                     @endif
                     <table class="table table-responsive">
-                        <tr>
-                            <th>Nome</th>
-                            <th>E-mail</th>
-                            <th>Ocupacação</th>
-                            <th>Valor da Inscrição</th>
-                            <th>Situacão</th>
-                            <th>Ações</th>
-                        </tr>
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>E-mail</th>
+                                <th>Ocupacação</th>
+                                <th>Valor da Inscrição</th>
+                                <th>Situacão</th>
+                                <th>Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table">
+                            @foreach($inscritos as $inscrito)
 
-                        @foreach($inscritos as $inscrito)
-                        <tr>
-                            <td>{{$inscrito->name}}</td>
-                            <td>{{$inscrito->email}}</td>
+                            <tr>
+                                <td>{{$inscrito->name}}</td>
+                                <td>{{$inscrito->email}}</td>
 
-                            @if($inscrito->ocupacao == 'professor-uni')
-                            <td>Professor Universitário</td>
-                            <td>R$ 40,00</td>
-                            @elseif($inscrito->ocupacao == 'profissional-educacao')
-                            <td>Profissinal da educação e de outros setores</td>
-                            <td>R$ 30,00</td>
-                            @elseif($inscrito->ocupacao == 'aluno-pos')
-                            <td>Aluno de Pós-graduação
-                            </td>
-                            <td>R$ 20,00</td>
-                            @elseif($inscrito->ocupacao == 'aluno-graduacao')
-                            <td>Aluno de graduação </td>
-                            <td>R$ 10,00</td>
-                            @endif
-                            <td>{{$inscrito->situacao}}
-                            </td>
-                            <td>
-                                <button id="detalhes" data-id="{{$inscrito->id}}" class="busca btn btn-info">Ver mais</button>
-                            </td>
-                        </tr>
-                        @endforeach
+                                @if($inscrito->ocupacao == 'professor-uni')
+                                <td>Professor Universitário</td>
+                                <td>R$ 40,00</td>
+                                @elseif($inscrito->ocupacao == 'profissional-educacao')
+                                <td>Profissinal da educação e de outros setores</td>
+                                <td>R$ 30,00</td>
+                                @elseif($inscrito->ocupacao == 'aluno-pos')
+                                <td>Aluno de Pós-graduação
+                                </td>
+                                <td>R$ 20,00</td>
+                                @elseif($inscrito->ocupacao == 'aluno-graduacao')
+                                <td>Aluno de graduação </td>
+                                <td>R$ 10,00</td>
+                                @endif
+                                <td>{{$inscrito->situacao}}
+                                </td>
+                                <td>
+                                    <button id="detalhes" data-id="{{$inscrito->id}}" class="busca btn btn-info">Ver mais</button>
+                                </td>
+                            </tr>
+                            @endforeach
+                        </tbody>
                     </table>
                 </div>
             </div>
@@ -58,7 +64,7 @@
                 <div class="card-header">Menu</div>
 
                 <div id="div1" class="card-body">
-                    <p><a href="">Inscrever participante</a></p>
+                    <p><a href="#" data-target="#register" data-toggle="modal">Inscrever participante</a></p>
                     <p><a href="">Inscrição de atividades</a></p>
                 </div>
             </div>
@@ -135,6 +141,32 @@
                     <input type="hidden" value="" id="input-id" name="id">
                     <button class="btn btn-block btn-success">Confirmar</button>
                 </form>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal fade" id="register">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h3>Inscrição de participante</h3>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                @include('auth.form-register')
             </div>
 
             <!-- Modal footer -->

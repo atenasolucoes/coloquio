@@ -31,11 +31,16 @@ $(document).ready(function () {
                     '<p class="text-danger"> Aguardando envio do comprovante de vinculo</p>'
                 );
             };
-
+            if ((result['vinculo'] = 'presencial') && (result['pagamento'] == 'presencial') && (result['situacao'] == 'confirmada')) {
+                $('#myModal').find('#comp').empty();
+                $('#myModal').find('#comp').append(
+                    '<p class="text-primary"> Comprovantes apresentados presencialmente</p>'
+                );
+            };
             if ((result['vinculo'] != null) && (result['pagamento'] !=null) && (result['situacao'] != 'confirmada')) {
                 $('#button-confirmar').show();
                 $('#form-confirmacao').find('#input-id').val(id);
-            }
+            };
 
             $('#myModal').modal('show');
         });
@@ -44,6 +49,13 @@ $(document).ready(function () {
 
      $(".busca").click(function () {
         consulta_participante($(this).data('id'));
+    });
+
+    $("#myInput").on("keyup", function () {
+        var value = $(this).val().toLowerCase();
+        $("#table tr").filter(function () {
+            $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+        });
     });
 
 
