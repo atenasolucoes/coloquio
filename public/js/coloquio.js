@@ -9,27 +9,33 @@ $(document).ready(function () {
             },
             beforeSend: function () {
                 $('#load').modal('show');
-                $('#myModal').find('.modal-body').empty();
+                $('#myModal').find('#comp').empty();
             }
         }).done(function (result) {
             $('#load').modal('hide');
+            $('#button-confirmar').hide();
             $('#myModal').find('.modal-title').text(result['name']);
             if (result['pagamento'] != null) {
-                $('#myModal').find('.modal-body').append('<a class="btn btn-block alert-info" href="/storage/pagamento/'+result['pagamento']+'" target="_blank">Comprovante de pagamento enviado</a>'
+                $('#myModal').find('#comp').append('<a class="btn btn-block alert-info" href="/storage/pagamento/'+result['pagamento']+'" target="_blank">Comprovante de pagamento enviado</a>'
                 );
             } else {
-                $('#myModal').find('.modal-body').append(
+                $('#myModal').find('#comp').append(
                     '<p class="text-danger"> Aguardando envio do comprovante de pagamento</p>'
                 );
             };
             if (result['vinculo'] != null) {
-                $('#myModal').find('.modal-body').append('<a class="btn btn-block alert-info" href="/storage/vinculo/' + result['vinculo'] + '" target="_blank">Comprovante de vinculo enviado</a>'
+                $('#myModal').find('#comp').append('<a class="btn btn-block alert-info" href="/storage/vinculo/' + result['vinculo'] + '" target="_blank">Comprovante de vinculo enviado</a>'
                 );
             } else {
-                $('#myModal').find('.modal-body').append(
+                $('#myModal').find('#comp').append(
                     '<p class="text-danger"> Aguardando envio do comprovante de vinculo</p>'
                 );
             };
+
+            if ((result['vinculo'] != null) && (result['pagamento'] !=null) && (result['situacao'] != 'confirmada')) {
+                $('#button-confirmar').show();
+                $('#form-confirmacao').find('#input-id').val(id);
+            }
 
             $('#myModal').modal('show');
         });

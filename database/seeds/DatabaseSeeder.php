@@ -25,6 +25,13 @@ class DatabaseSeeder extends Seeder
             'ocupacao' => 'administrador',
             'tipo'=>'admin',
             'password' => bcrypt('01072015')
+        ]);
+        DB::table('users')->insert([
+            'name' => 'Coloquio Brasil-Itália',
+            'email' => 'coloquio@suporte',
+            'ocupacao' => 'administrador',
+            'tipo' => 'admin',
+            'password' => bcrypt('coloquio2019')
         ]); // $this->call(UsersTableSeeder::class);
     }
 }

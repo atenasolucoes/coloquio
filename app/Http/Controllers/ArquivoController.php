@@ -70,4 +70,14 @@ class ArquivoController extends Controller
             ->back()
             ->withInput(['success' => 'Upload de vinculo feito com sucesso', 'type_alert' => 'success']);
     }
+
+    public function confirmacao(Request $request)
+    {
+        $teste = User::find($request->id);
+        $teste->situacao = 'confirmada';
+        $teste->save();
+        return redirect('/home');
+    }
+
+
 }

@@ -58,7 +58,8 @@
                 <div class="card-header">Menu</div>
 
                 <div id="div1" class="card-body">
-
+                    <p><a href="">Inscrever participante</a></p>
+                    <p><a href="">Inscrição de atividades</a></p>
                 </div>
             </div>
         </div>
@@ -76,11 +77,14 @@
 
             <!-- Modal body -->
             <div class="modal-body">
-                
-                <div class="comprovantes">
+
+                <div id="comp" class="comprovantes">
 
                 </div>
-                
+                <div class="p-5">
+                    <button id="button-confirmar" data-toggle="modal" data-target="#confirmacao" class="btn btn-block btn-success">Confirmar Inscrição</button>
+                </div>
+
             </div>
 
             <!-- Modal footer -->
@@ -104,6 +108,33 @@
             <!-- Modal body -->
             <div class="modal-body">
                 <h4 class="modal-title">Carregando...</h4>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="confirmacao">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <form id="form-confirmacao" method="get" action="{{route('confirmacao')}}">
+                    <h3>Deseja confirmar essa ação?</h3>
+                    <input type="hidden" value="" id="input-id" name="id">
+                    <button class="btn btn-block btn-success">Confirmar</button>
+                </form>
             </div>
 
             <!-- Modal footer -->

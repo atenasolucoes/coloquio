@@ -33,6 +33,14 @@ class HomeController extends Controller
        $teste = User::find($request->id);
        return response()->json($teste);
     }
+
+    public function confirmacao(Request $request)
+    {
+        $teste = User::find($request->id);
+        $teste->situacao = 'confirmada';
+        $teste->save();
+        return redirect('/home');
+    }
    
  
     public function inscricao_atividade(Request $request)
