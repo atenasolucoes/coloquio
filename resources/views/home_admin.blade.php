@@ -66,6 +66,8 @@
                 <div id="div1" class="card-body">
                     <p><a href="#" data-target="#register" data-toggle="modal">Inscrever participante</a></p>
                     <p><a href="">Inscrição de atividades</a></p>
+                    <p><a href="">Relatários</a></p>
+                    <p><a href="">Administração Site</a></p>
                 </div>
             </div>
         </div>
