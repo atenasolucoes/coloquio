@@ -30,6 +30,11 @@ class HomeController extends Controller
         $inscritos = User::where('tipo', null)->get();
         return view('home')->with(compact('inscritos'));
     }
+    public function lista(Request $request)
+    {
+        $inscritos = User::where('situacao', $request->situacao)->orderBy('name', 'asc')->get();
+        return view('listainscritos')->with(compact('inscritos'));
+    }
     
     public function teste(Request $request)
     {

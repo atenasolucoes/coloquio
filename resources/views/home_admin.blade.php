@@ -5,11 +5,23 @@
         </div>
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">Lista de Inscritos
+                <div class="card-header">Lista de Inscritos ({{count($inscritos)}} inscritos)
                     <input id="myInput" type="text" class="float-right" placeholder="Busca...">
                 </div>
 
                 <div class="card-body">
+                    <div class="">
+                        <form method="get" action="{{route('lista')}}" target="_blank">
+                            @csrf
+                            <label for="">Imprimir</label>
+                            <select name="situacao" id="" required>
+                                <option value="">---------</option>
+                                <option value="confirmada"> Inscritos Confirmados</option>
+                                <option value="pendente"> Inscritos Pendentes</option>
+                            </select>
+                            <button class="btn btn-sm">Enviar</button>
+                        </form>
+                    </div>
                     @if (session('status'))
                     <div class="alert alert-success" role="alert">
                         {{ session('status') }}
@@ -66,7 +78,6 @@
                 <div id="div1" class="card-body">
                     <p><a href="#" data-target="#register" data-toggle="modal">Inscrever participante</a></p>
                     <p><a href="">Inscrição de atividades</a></p>
-                    <p><a href="">Relatários</a></p>
                     <p><a href="">Administração Site</a></p>
                 </div>
             </div>

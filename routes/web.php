@@ -53,6 +53,7 @@ Route::prefix('it')->group(function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/lista', 'HomeController@lista')->name('lista');
 Route::get('/teste', 'HomeController@teste');
 Route::any('/insc-p', 'HomeController@inscricao_participante')->name('insc-p');
 Route::get('/confirmacao', 'ArquivoController@confirmacao')->name('confirmacao');
