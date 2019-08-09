@@ -5,6 +5,8 @@ namespace coloquio\Http\Controllers;
 use Illuminate\Http\Request;
 use coloquio\User;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Mail;
+use coloquio\Mail\ConfirmUser;
 
 class ArquivoController extends Controller
 {
@@ -76,6 +78,7 @@ class ArquivoController extends Controller
         $teste = User::find($request->id);
         $teste->situacao = 'confirmada';
         $teste->save();
+        Mail::to($teste->email)->send(new ConfirmUser($teste));
         return redirect('/home');
     }
 

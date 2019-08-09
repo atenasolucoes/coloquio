@@ -150,6 +150,7 @@
             <!-- Modal body -->
             <div class="modal-body">
                 <form id="form-confirmacao" method="get" action="{{route('confirmacao')}}">
+                    @csrf
                     <h3>Deseja confirmar essa ação?</h3>
                     <input type="hidden" value="" id="input-id" name="id">
                     <button class="btn btn-block btn-success">Confirmar</button>

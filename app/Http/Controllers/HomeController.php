@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 use coloquio\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Mail;
+use coloquio\Mail\ConfirmUser;
 
 
 class HomeController extends Controller
@@ -44,9 +46,10 @@ class HomeController extends Controller
 
     public function confirmacao(Request $request)
     {
-        $teste = User::find($request->id);
-        $teste->situacao = 'confirmada';
-        $teste->save();
+        $user = User::find($request->id);
+        $user->situacao = 'confirmada';
+        $user->save();
+        Mail::to($user->email)->send(new ConfirmUser($user));
         return redirect('/home');
     }
    
