@@ -2,11 +2,12 @@
 return [
     "driver" => "smtp",
     "host" => "smtp.umbler.com",
-    "port" => 587,
+    "port" => 587,   
     "from" => array(
         "address" => "from@example.com",
         "name" => "Example"
     ),
+    'encryption' => 'tls',
     "username" => "noreply@coloquiobrasilitalia.com",
     "password" => "coloquio123",
     "sendmail" => "/usr/sbin/sendmail -bs"
