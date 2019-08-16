@@ -1,15 +1,15 @@
 <?php
 return [
     "driver" => "smtp",
-    "host" => "smtp.umbler.com",
+    "host" => "in-v3.mailjet.com",
     "port" => 587,   
     "from" => array(
         "address" => "from@example.com",
         "name" => "Example"
     ),
     'encryption' => 'tls',
-    "username" => "noreply@coloquiobrasilitalia.com",
-    "password" => "coloquio123",
+    "username" => "7202701ff4eddf760c95a39388a46194",
+    "password" => "fbfa30ab80d06cb76761702a6a0df608",
     "sendmail" => "/usr/sbin/sendmail -bs"
 ];
 

@@ -207,176 +207,177 @@
         </tbody>
     </table> -->
     <table class="table text-center table-bordered">
-            <tbody>
-                <tr>
-                    <td width="137">
-                        <p><strong>Dia</strong></p>
-                    </td>
-                    <td width="445">
-                        <p><strong>Atividade</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="137">
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>31/07/2019</p>
-                        <p>Hor&aacute;rio de Bras&iacute;lia 10h00</p>
-                        <p>Local: Audit&oacute;rio Multim&iacute;dia</p>
-                    </td>
-                    <td width="445">
-                        <p><strong>Pr&eacute;-col&oacute;quio: Mesa redonda on-line</strong></p>
-                        <p>&nbsp;</p>
-                        <p><strong>10h00 - Abertura </strong></p>
-                        <p>Autoridades UNEB e UNIVASF, Diretora DCH III UNEB, Coordenadora do PPGESA.</p>
-                        <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
-                        <p>&nbsp;</p>
-                        <p><strong>10h30 &ndash; Di&aacute;logos Internacionais em Educa&ccedil;&atilde;o UNEB </strong><strong>- </strong><strong>UNIPD</strong></p>
-                        <p>Prof. Giuseppe Milan (UNIPD, It&aacute;lia)</p>
-                        <p>Isabella Polloni (EnARS, It&aacute;lia)</p>
-                        <p>Prof. Natanael Reis Bonfim (SERINT/UNEB).</p>
-                        <p><strong>11h30 - Intera&ccedil;&otilde;es</strong></p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="5" width="137">
-                        <p>Dia 21/08/2019</p>
-                        <p>Local: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
-                    </td>
-                    <td width="445">
-                        <p><strong>8h00 &ndash; Credenciamento e Boas Vindas</strong></p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>9h00 - Apresenta&ccedil;&atilde;o Cultural</strong></p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>9h20 &ndash; Abertura Oficial do Evento </strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>10h00 - Confer&ecirc;ncia de abertura</strong></p>
-                        <p><strong>&ldquo;Pedagogia e di&aacute;logo intercultural&rdquo; </strong></p>
-                        <p>Prof. Giuseppe Milan (UNIPD, It&aacute;lia)</p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>13h00 </strong>&ndash; Intervalo</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>15h00 &ndash; Mesa &ldquo;Educa&ccedil;&atilde;o Contextualizada e Educa&ccedil;&atilde;o GloCal: pertencimento na mundializa&ccedil;&atilde;o ou Forma&ccedil;&atilde;o para uma Cidadania planet&aacute;ria&rdquo;</strong></p>
-                        <p>Profa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB)</p>
-                        <p>e Prof. Augusto Cesar Rios Leiro (PPGEDUC/UNEB).</p>
-                        <p>Coordena&ccedil;&atilde;o: Profa. Carla Paiva (PPGESA/UNEB)</p>
-                        <p><strong>17h00 &ndash; </strong><strong>Do Local ao Global, novas estrat&eacute;gias de internacionaliza&ccedil;&atilde;o da extens&atilde;o.</strong></p>
-                        <p>PhD Nicola Andrian (PNPD -PPGESA/UNEB)</p>
-                        <p>Coordena&ccedil;&atilde;o: Prof. Edmerson Reis (PPGESA/UNEB)</p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>17h30 - Laborat&oacute;rio INTEREURISLAND</strong></p>
-                        <p><strong>Experi&ecirc;ncia na sala de aula de Rela&ccedil;&otilde;es Interpessoais e din&acirc;micas de grupo</strong></p>
-                        <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="6" width="137">
-                        <p>22/08/2019</p>
-                        <p>Local: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
-                    </td>
-                    <td width="445">
-                        <p><strong>8h30 &ndash; Atividade de extens&atilde;o &ndash; visitas </strong></p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>12h30 Intervalo</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>14h30 -</strong> <strong>Socializa&ccedil;&atilde;o das atividades de extens&atilde;o - visitas e reflex&atilde;o segundo o Ciclo da Aprendizagem Solid&aacute;ria</strong></p>
-                        <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (PNPD -PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>15h30 - A Aprendizagem Solid&aacute;ria</strong></p>
-                        <p>PhD Katia Gon&ccedil;alves Mori</p>
-                        <p>(Coordena&ccedil;&atilde;o da Rede Brasileira da Aprendizagem Solid&aacute;ria)</p>
-                        <p>e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>17h30 &ndash; Projeto de Extens&atilde;o UNIPD Mentor Up</strong></p>
-                        <p>Prof. Massimo Santinello (UNIPD)</p>
-                        <p><strong>17h45 &ndash; A M&uacute;sica como a intercultura &ndash; &eacute; uma experi&ecirc;ncia subversiva.</strong></p>
-                        <p>PhD Simonetta Bungaro (Conservat&oacute;rio Trento, It&aacute;lia)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>18h15 &ndash; Lan&ccedil;amento de livros e Apresenta&ccedil;&atilde;o cultural</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="6" width="137">
-                        <p>23/08/2019</p>
-                        <p>Local: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
-                    </td>
-                    <td width="445">
-                        <p><strong>9h00 &ndash; Mesa &ldquo;Curricularizando a extens&atilde;o&rdquo;</strong></p>
-                        <p>Profa. Adriana Marmori (PROEX/UNEB)</p>
-                        <p>Profa. Lucia Marisy (PROEX/UNIVASF)</p>
-                        <p>&nbsp;Coordena&ccedil;&atilde;o: Profa. Edonilce Barros (PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>10h30 - Mesa &ldquo;Extens&atilde;o e di&aacute;logo intercultural - Interse&ccedil;&otilde;es&rdquo;</strong></p>
-                        <p>Profa. Edilane Carvalho Teles (UNEB), Prof. Nilton Ara&uacute;jo (UNIVASF), Profa. Barbara Eleonora Cabral (UNIVASF) e Prof. Giuseppe Milan (UNIPD)</p>
-                        <p>Coordena&ccedil;&atilde;o: Profa. M&aacute;rcia Guena (UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>12h30 - Intervalo</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>14h30 - Mobilidade internacional, extens&atilde;o e aprendizagem solid&aacute;ria &ndash; o olhar das/os discentes e das Institui&ccedil;&otilde;es envolvidas </strong></p>
-                        <p><strong>Relatos de Experi&ecirc;ncia Brasil e It&aacute;lia</strong></p>
-                        <p>Jamile Soares da Silva (UNEB), Maria Spalletta e Maurizio Dorsa (UNIPD), Fernanda Maria Lins e Silva (Pastoral da Mulher), Elzirene Oliveira (Case Gey Espinheira), Isabella Polloni (Ass. EnARS), Beatrice Girotto (Coop. Peter Pan), Roberta Lorenzetto (Coop. Porto Alegre).</p>
-                        <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>17h00: Cerim&ocirc;nia de Encerramento</strong></p>
-                        <p><strong>Plantio da &Aacute;rvore do Programa SCHOLAS OCCURRENTES</strong><strong> e Assinatura da Carta &ldquo;Pela constru&ccedil;&atilde;o de uma cidadania planet&aacute;ria&rdquo;</strong></p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="445">
-                        <p><strong>18h00 Noite cultural &ldquo;O Bella Ciao&rdquo;</strong></p>
-                        <p>Grupo Percusivo Baque Opar&aacute; e Banda Musaik&oacute;n</p>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+        <tbody>
+            <tr>
+                <td width="137">
+                    <p><strong>Dia</strong></p>
+                </td>
+                <td width="445">
+                    <p><strong>Atividade</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="137">
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>31/07/2019</p>
+                    <p>Hor&aacute;rio de Bras&iacute;lia 10h00</p>
+                    <p>Local: Audit&oacute;rio Multim&iacute;dia</p>
+                </td>
+                <td width="445">
+                    <p><strong>Pr&eacute;-col&oacute;quio: Mesa redonda on-line</strong></p>
+                    <p>&nbsp;</p>
+                    <p><strong>10h00 - Abertura </strong></p>
+                    <p>Autoridades UNEB e UNIVASF, Diretora DCH III UNEB, Coordenadora do PPGESA.</p>
+                    <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
+                    <p>&nbsp;</p>
+                    <p><strong>10h30 &ndash; Di&aacute;logos Internacionais em Educa&ccedil;&atilde;o UNEB </strong><strong>- </strong><strong>UNIPD</strong></p>
+                    <p>Prof. Giuseppe Milan (UNIPD, It&aacute;lia)</p>
+                    <p>Isabella Polloni (EnARS, It&aacute;lia)</p>
+                    <p>Prof. Natanael Reis Bonfim (SERINT/UNEB).</p>
+                    <p><strong>11h30 - Intera&ccedil;&otilde;es</strong></p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="5" width="137">
+                    <p>Dia 21/08/2019</p>
+                    <p>Local: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
+                </td>
+                <td width="445">
+                    <p><strong>8h00 &ndash; Credenciamento e Boas Vindas</strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>9h00 - Apresenta&ccedil;&atilde;o Cultural</strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>9h20 &ndash; Abertura Oficial do Evento </strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>10h00 - Confer&ecirc;ncia de abertura</strong></p>
+                    <p><strong>&ldquo;Pedagogia e di&aacute;logo intercultural&rdquo; </strong></p>
+                    <p>Prof. Giuseppe Milan (UNIPD, It&aacute;lia)</p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>13h00 </strong>&ndash; Intervalo</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>15h00 &ndash; Mesa &ldquo;Educa&ccedil;&atilde;o Contextualizada e Educa&ccedil;&atilde;o GloCal: pertencimento na mundializa&ccedil;&atilde;o ou Forma&ccedil;&atilde;o para uma Cidadania planet&aacute;ria&rdquo;</strong></p>
+                    <p>Profa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB)</p>
+                    <p>e Prof. Augusto Cesar Rios Leiro (PPGEDUC/UNEB).</p>
+                    <p>Coordena&ccedil;&atilde;o: Profa. Carla Paiva (PPGESA/UNEB)</p>
+                    <p><strong>17h00 &ndash; </strong><strong>Do Local ao Global, novas estrat&eacute;gias de internacionaliza&ccedil;&atilde;o da extens&atilde;o.</strong></p>
+                    <p>PhD Nicola Andrian (PNPD -PPGESA/UNEB)</p>
+                    <p>Coordena&ccedil;&atilde;o: Prof. Edmerson Reis (PPGESA/UNEB)</p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>17h30 - Laborat&oacute;rio INTEREURISLAND</strong></p>
+                    <p><strong>Experi&ecirc;ncia na sala de aula de Rela&ccedil;&otilde;es Interpessoais e din&acirc;micas de grupo</strong></p>
+                    <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="6" width="137">
+                    <p>22/08/2019</p>
+                    <p>Local: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
+                </td>
+                <td width="445">
+                    <p><strong>8h30 &ndash; Atividade de extens&atilde;o &ndash; visitas </strong></p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>12h30 Intervalo</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>14h30 -</strong> <strong>Socializa&ccedil;&atilde;o das atividades de extens&atilde;o - visitas e reflex&atilde;o segundo o Ciclo da Aprendizagem Solid&aacute;ria</strong></p>
+                    <p>Coordena&ccedil;&atilde;o: &nbsp;PhD Nicola Andrian (PNPD -PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>15h30 - A Aprendizagem Solid&aacute;ria</strong></p>
+                    <p>PhD Katia Gon&ccedil;alves Mori</p>
+                    <p>(Coordena&ccedil;&atilde;o da Rede Brasileira da Aprendizagem Solid&aacute;ria)</p>
+                    <p>e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>17h30 &ndash; Projeto de Extens&atilde;o UNIPD Mentor Up</strong></p>
+                    <p>Prof. Massimo Santinello (UNIPD)</p>
+                    <p><strong>17h45 &ndash; A M&uacute;sica como a intercultura &ndash; &eacute; uma experi&ecirc;ncia subversiva.</strong></p>
+                    <p>PhD Simonetta Bungaro (Conservat&oacute;rio Trento, It&aacute;lia)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>18h15 &ndash; Lan&ccedil;amento de livros e Apresenta&ccedil;&atilde;o cultural</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="6" width="137">
+                    <p>23/08/2019</p>
+                    <p>Local: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
+                </td>
+                <td width="445">
+                    <p><strong>9h00 &ndash; Mesa &ldquo;Curricularizando a extens&atilde;o&rdquo;</strong></p>
+                    <p>Profa. Adriana Marmori (PROEX/UNEB)</p>
+                    <p>Profa. Lucia Marisy (PROEX/UNIVASF)</p>
+                    <p>Prof. Odair França de Cavallo (PROEC / UNEB)</p>
+                    <p>&nbsp;Coordena&ccedil;&atilde;o: Profa. Edonilce Barros (PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>10h30 - Mesa &ldquo;Extens&atilde;o e di&aacute;logo intercultural - Interse&ccedil;&otilde;es&rdquo;</strong></p>
+                    <p>Profa. Edilane Carvalho Teles (UNEB), Prof. Nilton Ara&uacute;jo (UNIVASF), Profa. Barbara Eleonora Cabral (UNIVASF) e Prof. Giuseppe Milan (UNIPD)</p>
+                    <p>Coordena&ccedil;&atilde;o: Profa. M&aacute;rcia Guena (UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>12h30 - Intervalo</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>14h30 - Mobilidade internacional, extens&atilde;o e aprendizagem solid&aacute;ria &ndash; o olhar das/os discentes e das Institui&ccedil;&otilde;es envolvidas </strong></p>
+                    <p><strong>Relatos de Experi&ecirc;ncia Brasil e It&aacute;lia</strong></p>
+                    <p>Jamile Soares da Silva (UNEB), Maria Spalletta e Maurizio Dorsa (UNIPD), Fernanda Maria Lins e Silva (Pastoral da Mulher), Elzirene Oliveira (Case Gey Espinheira), Isabella Polloni (Ass. EnARS), Beatrice Girotto (Coop. Peter Pan), Roberta Lorenzetto (Coop. Porto Alegre).</p>
+                    <p>Coordena&ccedil;&atilde;o: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>17h00: Cerim&ocirc;nia de Encerramento</strong></p>
+                    <p><strong>Plantio da &Aacute;rvore do Programa SCHOLAS OCCURRENTES</strong><strong> e Assinatura da Carta &ldquo;Pela constru&ccedil;&atilde;o de uma cidadania planet&aacute;ria&rdquo;</strong></p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="445">
+                    <p><strong>18h00 Noite cultural &ldquo;O Bella Ciao&rdquo;</strong></p>
+                    <p>Grupo Percusivo Baque Opar&aacute; e Banda Musaik&oacute;n</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 @stop

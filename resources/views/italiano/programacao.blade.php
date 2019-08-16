@@ -207,184 +207,185 @@
         </tbody>
     </table> -->
     <table class="table text-center table-bordered">
-            <tbody>
-                <tr>
-                    <td width="135">
-                        <p><strong>Giorno e luogo</strong></p>
-                    </td>
-                    <td width="431">
-                        <p><strong>Attivit&agrave;</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="135">
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-                        <p>31/07/2019</p>
-                        <p>10.00 (orario di Brasilia, BR)</p>
-                        <p>Luogo: Auditorio Multimediale</p>
-                        <p>DCH III UNEB</p>
-                    </td>
-                    <td width="431">
-                        <p>Pre - evento: Tavola rotonda on-line</p>
-                        <p>&nbsp;</p>
-                        <p><strong>10.00: Apertura</strong></p>
-                        <p>Rettori UNEB e UNIVASF, Direttrice DCH III, UNEB,</p>
-                        <p>Coordinatrice PPGESA.</p>
-                        <p>Coordinamento: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
-                        <p>&nbsp;</p>
-                        <p><strong>10.30: Dialoghi internazionali sull&rsquo;educazione UNEB - UNIPD</strong></p>
-                        <p>Prof. Giuseppe Milan (UNIPD),</p>
-                        <p>Isabella Polloni (EnARS) e</p>
-                        <p>Prof. Natanael Reis Bomfim (SERINT/UNEB)</p>
-                        <p>&nbsp;</p>
-                        <p><strong>11.30 - Interazioni</strong></p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="5" width="135">
-                        <p>21/08/2019</p>
-                        <p>Luogo: Auditorium ACM &ndash; <em>Campus</em> III</p>
-                    </td>
-                    <td width="431">
-                        <p><strong>8.00 &ndash; Iscrizioni e Benvenuto</strong></p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>9.00 &ndash; Presentazione culturale</strong></p>
-                        <p>&nbsp;</p>
-                        <p><strong>9.20 &ndash; Apertura ufficiale dell&rsquo;evento </strong></p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>10.00 &ndash; Conferenza di apertura</strong></p>
-                        <p>&nbsp;&lsquo;Pedagogia e dialogo interculturale&rsquo;</p>
-                        <p>Prof. Giuseppe Milan (UNIPD)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>13.000 &ndash; Intervallo pranzo</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>14.30 - Tavola rotonda</strong></p>
-                        <p><strong>&ldquo;Educazione contestualizzata e GloCal Education: globalizzazione o formazione ad una cittadinanza globale?&rdquo;</strong></p>
-                        <p>Prof.ssa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB) e Prof. Augusto Cesar Rios Leiro (PPGEDUC/UNEB).</p>
-                        <p>Coordinamento: Prof.ssa Carla Paiva (PPGESA/UNEB)</p>
-                        <p>&nbsp;</p>
-                        <p><strong>17.00 &ndash; Dal Locale al Globale, nuove strategie di internazionalizzazione della terza missione.</strong></p>
-                        <p>PhD Nicola A. (PNPD - PPGESA/UNEB)</p>
-                        <p>Coordinamento: Prof. Edmerson Reis (PPGESA/UNEB)</p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>17.30 &ndash; Laboratorio INTEREURISLAND</strong></p>
-                        <p><strong>Esperienze al corso di Relazioni interpersonali e</strong></p>
-                        <p><strong>dinamiche di gruppo</strong></p>
-                        <p>Coordinamento PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="6" width="135">
-                        <p>22/08/2019</p>
-                        <p>Luogo: Comunit&agrave; / Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
-                    </td>
-                    <td width="431">
-                        <p><strong>8.30 &ndash; Attivit&agrave; di Social Engagement - Visite </strong></p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>12.30 Intervallo pranzo</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>14.30 -</strong> <strong>Socializzazione attivit&agrave; di terza missione &ndash; visite e riflessioni secondo il ciclo del service-learning</strong></p>
-                        <p>Coordinamento PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>15.30 Il Service Learning</strong></p>
-                        <p>PhD Katia Gon&ccedil;alves Mori</p>
-                        <p>(Coordinamento Rete Brasiliana de Aprendizagem Solid&aacute;ria)</p>
-                        <p>e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>17.15 &ndash; Il progetto &ldquo;Mentor Up&rdquo;, un&rsquo;esperienza di Service Learning.</strong></p>
-                        <p>Prof. Massimo Santinello (UNIPD)</p>
-                        <p><strong>17.45 - &ldquo;La musica come l&rsquo;intercultura - &egrave; un&rsquo;esperienza sovversiva.&rdquo;</strong></p>
-                        <p>PhD Simonetta Bungaro (Conservatorio Trento, Italia)</p>
-                        <p><strong>&nbsp;</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>18.15 &ndash; Presentazione Libro e presentazione culturale</strong></p>
-                        <p><strong>&nbsp;</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="6" width="135">
-                        <p>23/08/2019</p>
-                        <p>Luogo: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
-                    </td>
-                    <td width="431">
-                        <p><strong>9.00 &ndash; Istituzionalizzando la terza missione</strong></p>
-                        <p>Prof.ssa Adriana Marmori (PROEX/UNEB)</p>
-                        <p>Prof.ssa Lucia Marisy (PROEX/UNIVASF)</p>
-                        <p>&nbsp;Coordinatrice: Prof.ssa Edonilce Barros (PPGESA/UNEB)</p>
-                        <p><strong>&nbsp;</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>10.30 &ndash; Tavola &ldquo;Terza Missione e dialogo interculturale &ndash; Intersezioni.</strong></p>
-                        <p>Prof.ssa Edilane Carvalho Teles (UNEB), Prof. Nilton Ara&uacute;jo (UNIVASF), Prof.ssa Barbara Eleonora Cabral (UNIVASF) e Prof. Giuseppe Milan (UNIPD)</p>
-                        <p>Coordinamento: Prof.ssa M&aacute;rcia Guena (UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>12.30 &ndash; Intervallo pranzo</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>14.30 &ndash; Tavola rotonda</strong></p>
-                        <p>"Mobilit&agrave; internazionale, responsabilit&agrave; sociale e service-learning: il punto di vista degli studenti e degli enti coinvolti. Report delle esperienze in Brasile e Italia".</p>
-                        <p>Jamile Soares da Silva (UNEB), Maria Spalletta e Maurizio Dorsa (UNIPD), Fernanda Maria Lins e Silva (Pastoral da Mulher), Elzirene Oliveira (Case Gey Espinheira), Isabella Polloni (EnARS), Beatrice Girotto (Peter Pan) e Roberta Lorenzetto (Porto Alegre).</p>
-                        <p>Coordinamento: PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>17.00: Cerimonia di chiusura</strong></p>
-                        <p>Piantagione dell&rsquo;Albero SCHOLAS OCCURRENTES e firma del documento &ldquo;Per la costruzione di una cittadinanza planetaria&rdquo;</p>
-                        <p>&nbsp;</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="431">
-                        <p><strong>18.00 Notte culturale &ldquo;O Bella Ciao&rdquo;</strong></p>
-                        <p>Gruppo Pdi percussioni Baque Opar&aacute; e Banda Musaik&oacute;n</p>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+        <tbody>
+            <tr>
+                <td width="135">
+                    <p><strong>Giorno e luogo</strong></p>
+                </td>
+                <td width="431">
+                    <p><strong>Attivit&agrave;</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="135">
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>31/07/2019</p>
+                    <p>10.00 (orario di Brasilia, BR)</p>
+                    <p>Luogo: Auditorio Multimediale</p>
+                    <p>DCH III UNEB</p>
+                </td>
+                <td width="431">
+                    <p>Pre - evento: Tavola rotonda on-line</p>
+                    <p>&nbsp;</p>
+                    <p><strong>10.00: Apertura</strong></p>
+                    <p>Rettori UNEB e UNIVASF, Direttrice DCH III, UNEB,</p>
+                    <p>Coordinatrice PPGESA.</p>
+                    <p>Coordinamento: PhD Nicola Andrian (PNPD PPGESA/UNEB)</p>
+                    <p>&nbsp;</p>
+                    <p><strong>10.30: Dialoghi internazionali sull&rsquo;educazione UNEB - UNIPD</strong></p>
+                    <p>Prof. Giuseppe Milan (UNIPD),</p>
+                    <p>Isabella Polloni (EnARS) e</p>
+                    <p>Prof. Natanael Reis Bomfim (SERINT/UNEB)</p>
+                    <p>&nbsp;</p>
+                    <p><strong>11.30 - Interazioni</strong></p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="5" width="135">
+                    <p>21/08/2019</p>
+                    <p>Luogo: Auditorium ACM &ndash; <em>Campus</em> III</p>
+                </td>
+                <td width="431">
+                    <p><strong>8.00 &ndash; Iscrizioni e Benvenuto</strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>9.00 &ndash; Presentazione culturale</strong></p>
+                    <p>&nbsp;</p>
+                    <p><strong>9.20 &ndash; Apertura ufficiale dell&rsquo;evento </strong></p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>10.00 &ndash; Conferenza di apertura</strong></p>
+                    <p>&nbsp;&lsquo;Pedagogia e dialogo interculturale&rsquo;</p>
+                    <p>Prof. Giuseppe Milan (UNIPD)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>13.000 &ndash; Intervallo pranzo</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>14.30 - Tavola rotonda</strong></p>
+                    <p><strong>&ldquo;Educazione contestualizzata e GloCal Education: globalizzazione o formazione ad una cittadinanza globale?&rdquo;</strong></p>
+                    <p>Prof.ssa. Luzineide Dourado (PPGESA/UNEB), Prof. Isnaldo Coelho (UNIVASF), Prof. Natanael Reis Bomfim (SERINT/UNEB) e Prof. Augusto Cesar Rios Leiro (PPGEDUC/UNEB).</p>
+                    <p>Coordinamento: Prof.ssa Carla Paiva (PPGESA/UNEB)</p>
+                    <p>&nbsp;</p>
+                    <p><strong>17.00 &ndash; Dal Locale al Globale, nuove strategie di internazionalizzazione della terza missione.</strong></p>
+                    <p>PhD Nicola A. (PNPD - PPGESA/UNEB)</p>
+                    <p>Coordinamento: Prof. Edmerson Reis (PPGESA/UNEB)</p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>17.30 &ndash; Laboratorio INTEREURISLAND</strong></p>
+                    <p><strong>Esperienze al corso di Relazioni interpersonali e</strong></p>
+                    <p><strong>dinamiche di gruppo</strong></p>
+                    <p>Coordinamento PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="6" width="135">
+                    <p>22/08/2019</p>
+                    <p>Luogo: Comunit&agrave; / Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
+                </td>
+                <td width="431">
+                    <p><strong>8.30 &ndash; Attivit&agrave; di Social Engagement - Visite </strong></p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>12.30 Intervallo pranzo</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>14.30 -</strong> <strong>Socializzazione attivit&agrave; di terza missione &ndash; visite e riflessioni secondo il ciclo del service-learning</strong></p>
+                    <p>Coordinamento PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>15.30 Il Service Learning</strong></p>
+                    <p>PhD Katia Gon&ccedil;alves Mori</p>
+                    <p>(Coordinamento Rete Brasiliana de Aprendizagem Solid&aacute;ria)</p>
+                    <p>e PhD Carina Rossa (SCHOLAS OCCURRENTES)</p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>17.15 &ndash; Il progetto &ldquo;Mentor Up&rdquo;, un&rsquo;esperienza di Service Learning.</strong></p>
+                    <p>Prof. Massimo Santinello (UNIPD)</p>
+                    <p><strong>17.45 - &ldquo;La musica come l&rsquo;intercultura - &egrave; un&rsquo;esperienza sovversiva.&rdquo;</strong></p>
+                    <p>PhD Simonetta Bungaro (Conservatorio Trento, Italia)</p>
+                    <p><strong>&nbsp;</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>18.15 &ndash; Presentazione Libro e presentazione culturale</strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="6" width="135">
+                    <p>23/08/2019</p>
+                    <p>Luogo: Audit&oacute;rio ACM &ndash; <em>Campus</em> III</p>
+                </td>
+                <td width="431">
+                    <p><strong>9.00 &ndash; Istituzionalizzando la terza missione</strong></p>
+                    <p>Prof.ssa Adriana Marmori (PROEX/UNEB)</p>
+                    <p>Prof.ssa Lucia Marisy (PROEX/UNIVASF)</p>
+                    <p>Prof. Odair França de Cavallo (PROEC / UNEB)</p>
+                    <p>&nbsp;Coordinatrice: Prof.ssa Edonilce Barros (PPGESA/UNEB)</p>
+                    <p><strong>&nbsp;</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>10.30 &ndash; Tavola &ldquo;Terza Missione e dialogo interculturale &ndash; Intersezioni.</strong></p>
+                    <p>Prof.ssa Edilane Carvalho Teles (UNEB), Prof. Nilton Ara&uacute;jo (UNIVASF), Prof.ssa Barbara Eleonora Cabral (UNIVASF) e Prof. Giuseppe Milan (UNIPD)</p>
+                    <p>Coordinamento: Prof.ssa M&aacute;rcia Guena (UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>12.30 &ndash; Intervallo pranzo</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>14.30 &ndash; Tavola rotonda</strong></p>
+                    <p>"Mobilit&agrave; internazionale, responsabilit&agrave; sociale e service-learning: il punto di vista degli studenti e degli enti coinvolti. Report delle esperienze in Brasile e Italia".</p>
+                    <p>Jamile Soares da Silva (UNEB), Maria Spalletta e Maurizio Dorsa (UNIPD), Fernanda Maria Lins e Silva (Pastoral da Mulher), Elzirene Oliveira (Case Gey Espinheira), Isabella Polloni (EnARS), Beatrice Girotto (Peter Pan) e Roberta Lorenzetto (Porto Alegre).</p>
+                    <p>Coordinamento: PhD Nicola Andrian (PNPD &ndash; PPGESA/UNEB)</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>17.00: Cerimonia di chiusura</strong></p>
+                    <p>Piantagione dell&rsquo;Albero SCHOLAS OCCURRENTES e firma del documento &ldquo;Per la costruzione di una cittadinanza planetaria&rdquo;</p>
+                    <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td width="431">
+                    <p><strong>18.00 Notte culturale &ldquo;O Bella Ciao&rdquo;</strong></p>
+                    <p>Gruppo Pdi percussioni Baque Opar&aacute; e Banda Musaik&oacute;n</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
-        @stop
+    @stop
