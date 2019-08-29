@@ -37,7 +37,7 @@ $(document).ready(function () {
                     '<p class="text-primary"> Comprovantes apresentados presencialmente</p>'
                 );
             };
-            if ((result['vinculo'] != null) && (result['pagamento'] !=null) && (result['situacao'] != 'confirmada')) {
+            if ((result['vinculo'] != null) && (result['pagamento'] !=null) ) {
                 $('#button-confirmar').show();
                 $('#form-confirmacao').find('#input-id').val(id);
             };

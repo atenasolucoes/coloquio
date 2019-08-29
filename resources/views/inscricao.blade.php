@@ -6,7 +6,7 @@
 <div class="contact-page-w3ls inner-padding">
     <div class="container">
         <h3 class="heading-agileinfo">Inscrição</h3>
-        <h4>In&iacute;cio das inscri&ccedil;&otilde;es: 18.07.19</h4>
+        <h4>In&iacute;cio das inscri&ccedil;&otilde;es: 18.07.19 à 21.07.19</h4>
         <table class="table">
             <tbody>
                 <tr>
