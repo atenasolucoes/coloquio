@@ -24,6 +24,9 @@ Route::get('/contatos', function () {
 Route::get('/programacao', function () {
     return view('programacao');
 });
+Route::get('/cobertura', function () {
+    return view('cobertura');
+});
 Route::get('/inscricao', function () {
     return view('inscricao');
 });
@@ -42,6 +45,9 @@ Route::prefix('it')->group(function () {
     });
     Route::get('/inscricao', function () {
         return view('italiano.inscricao');
+    });
+    Route::get('/cobertura', function () {
+        return view('cobertura');
     });
     Route::get('/contatos', function () {
         return view('italiano.contato');

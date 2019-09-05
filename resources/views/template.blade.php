@@ -97,7 +97,7 @@
 
                             </ul>
                         </li>
-                        <li><a href="#">
+                        <li><a href="/cobertura">
                                 @if(Route::current()->action['prefix'] == '/it')
                                 Copertura
                                 @else
