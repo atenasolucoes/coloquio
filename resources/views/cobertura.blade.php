@@ -191,7 +191,7 @@
 
         @endswitch
         <div class="column">
-            <img src="images/coloquio/{{$i}}.jpg" onclick="openModal();currentSlide({{$i}})" class="hover-shadow">
+            <img src="images/coloquio/{{$i}}.{{($i>=16) ? 'JPG' : 'jpg'}}" onclick="openModal();currentSlide({{$i}})" class="hover-shadow">
         </div>
         @endfor
     </div>
