@@ -144,7 +144,7 @@
 
         <!-- Images used to open the lightbox -->
         <div class="row">
-            @for ($i = 1; $i < 86; $i++) @switch($i) @case(1) <div class="col-sm-12" style="margin:5px;">
+            @for ($i = 1; $i < 81; $i++) @switch($i) @case(1) <div class="col-sm-12" style="margin:5px;">
                 <hr>
                 <h4>Pré colóquio</h4>
         </div>
@@ -179,13 +179,13 @@
             <h4>Dia 23 pela manhã</h4>
         </div>
         @break
-        @case(70)
+        @case(65)
         <div class="col-sm-12" style="margin:5px;">
             <hr>
             <h4>Dia 23 pela tarde</h4>
         </div>
         @break
-        @case(79)
+        @case(75)
         <div class="col-sm-12" style="margin:5px;">
             <hr>
             <h4>Encerramento</h4>
@@ -208,8 +208,8 @@
 <div id="myModal" class="modal">
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
-        @for ($i = 1; $i < 86; $i++) <div class="mySlides">
-            <div class="numbertext " style="background:black; margin:5px;">{{$i}} / 85</div>
+        @for ($i = 1; $i < 81; $i++) <div class="mySlides">
+            <div class="numbertext " style="background:black; margin:5px;">{{$i}} / 80</div>
             <img src="images/coloquio/{{$i}}.jpg" style="width:100%">
     </div>
     @endfor
